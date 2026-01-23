@@ -1,0 +1,132 @@
+# Privacy Policy for Nudge
+
+**Effective Date:** January 23, 2026
+
+## Introduction
+
+Nudge ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+
+## Information We Collect
+
+### Information You Provide to Us
+
+- **Account Information:** Name, email address (if you create an account)
+- **Task and Reminder Data:** Tasks, reminders, due dates, times, notes, and any other content you create in the app
+- **Subscription Information:** Purchase history, subscription status (processed through Apple/Google)
+
+### Automatically Collected Information
+
+- **Device Information:** Device type, operating system version, unique device identifiers
+- **Usage Data:** App features used, time spent in app, interactions with tasks
+- **Performance Data:** Crash logs, error reports, app performance metrics
+
+### Push Notifications
+
+We collect notification preferences and send push notifications for task reminders when you enable this feature. You can disable notifications in your device settings at any time.
+
+## How We Use Your Information
+
+We use your information to:
+
+- Provide and maintain the Nudge app functionality
+- Send you task reminders and notifications
+- Process subscription purchases and manage your premium access
+- Improve app performance and fix bugs
+- Analyze usage patterns to enhance user experience
+- Communicate with you about app updates or changes
+- Comply with legal obligations
+
+## Third-Party Services
+
+We use the following third-party services that may collect information:
+
+### RevenueCat
+- **Purpose:** Subscription and payment processing
+- **Data Collected:** Purchase history, subscription status, device identifiers
+- **Privacy Policy:** https://www.revenuecat.com/privacy
+
+### Expo (React Native Framework)
+- **Purpose:** App infrastructure and updates
+- **Data Collected:** Device information, crash reports
+- **Privacy Policy:** https://expo.dev/privacy
+
+### Apple App Store / Google Play Store
+- **Purpose:** App distribution and payment processing
+- **Data Collected:** Payment information, purchase history
+- **Privacy Policy:** Apple: https://www.apple.com/legal/privacy/ | Google: https://policies.google.com/privacy
+
+## Data Storage and Security
+
+- Your task and reminder data is stored locally on your device
+- Subscription information is stored securely by RevenueCat and Apple/Google
+- We implement industry-standard security measures to protect your information
+- No data is sold to third parties
+
+## Data Retention
+
+- **Task Data:** Stored locally on your device until you delete the app or clear data
+- **Subscription Data:** Retained by RevenueCat and Apple/Google per their policies
+- **Usage Analytics:** Retained for up to 2 years or until you request deletion
+
+## Your Rights
+
+You have the right to:
+
+- **Access:** Request a copy of your personal data
+- **Deletion:** Request deletion of your personal data
+- **Correction:** Update or correct your information
+- **Opt-Out:** Disable notifications and decline optional data collection
+- **Data Portability:** Export your task data from the app
+
+### How to Exercise Your Rights
+
+To exercise any of these rights, contact us at nudge.noti@gmail.com or delete your account through the app settings.
+
+## Children's Privacy
+
+Nudge is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected information from a child under 13, please contact us immediately.
+
+## California Privacy Rights (CCPA)
+
+California residents have additional rights under the California Consumer Privacy Act:
+
+- Right to know what personal information is collected
+- Right to know whether personal information is sold or disclosed
+- Right to opt-out of sale of personal information (we do not sell data)
+- Right to deletion of personal information
+- Right to non-discrimination for exercising CCPA rights
+
+## European Privacy Rights (GDPR)
+
+If you are in the European Economic Area, you have rights under GDPR:
+
+- Right to access, rectification, erasure, and restriction of processing
+- Right to data portability
+- Right to object to processing
+- Right to withdraw consent
+- Right to lodge a complaint with a supervisory authority
+
+**Legal Basis for Processing:** We process your data based on:
+- Your consent (notifications, analytics)
+- Contract performance (providing app services)
+- Legitimate interests (improving the app, security)
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by:
+- Posting the new Privacy Policy in the app
+- Updating the "Effective Date" at the top of this policy
+- Sending you a notification (for material changes)
+
+Your continued use of Nudge after changes constitutes acceptance of the updated policy.
+
+## Contact Us
+
+If you have questions about this Privacy Policy, please contact us:
+
+- **Email:** nudge.noti@gmail.com
+- **Location:** Sydney, Australia
+
+---
+
+**Last Updated:** January 23, 2026
